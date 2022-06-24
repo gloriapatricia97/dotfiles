@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gloriapatricia.labrador@ingka.ikea.com
+	name = Gloria Labrador
